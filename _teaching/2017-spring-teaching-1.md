@@ -8,12 +8,3 @@ date: 2017-01-01
 location: "Cambridge, MA"
 ---
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
